@@ -3,7 +3,7 @@
 // @namespace    https://github.com/yourname/site-blocker
 // @version      1.4
 // @description  Block websites instantly, show a funny image on the block page.
-// @author       You
+// @author       Jaami
 // @match        *://*/*
 // @run-at       document-start
 // @grant        GM_setValue
